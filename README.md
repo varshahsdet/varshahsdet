@@ -5,7 +5,7 @@ I'm a SDET who is knowledgeable and has hands-on experience in SDE, DE and AI/ML
 
 ## Projects
 
-### GenAI-based Test Case Generator (with LLMs)
+### [GenAI-based Test Case Generator (with LLMs)](https://github.com/varshahsdet/genai-testgen)
 **What it is:** A web tool that takes in a user story or functional spec and generates test cases using a Hugging Face model (like Llama 3 or GPT-based models). Add optional RAG with ChromaDB for refinement. Directly showcases your GenAI + QA expertise. <br />
 **Stack:** Python (FastAPI), LangChain, Hugging Face Transformers, ChromaDB, Streamlit or Flask UI <br />
 **Deployment:** Docker + Kubernetes + GitHub Actions (CI/CD) <br />
